@@ -37,7 +37,7 @@ if __name__ == '__main__':
         zip_safe=False,
 
         install_requires=[
-            'cloudpickle>=0.2.1',
+            'cloudpickle==0.2.1',
         ],
         extras_require=dict(
             dev=[
